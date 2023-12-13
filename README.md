@@ -1,2 +1,11 @@
-# sebruano23.github.io
-This is the space where i want to show all the experiences in the Biomedical Analyst's world
+# Juan Sebastian Ruano Rodriguez
+
+## Repository intention
+Welcome to an space of the **Biomedical Analyst's** world experiences
+
+# Topics of interest
+-  Biomedical data
+-  Biomedical images
+-  Data analysis
+-  Phyton
+-  R
